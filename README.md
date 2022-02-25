@@ -1,5 +1,10 @@
-# medicine
-This application serves as a drug distribution center for pharmacies.
+# medicine  
+
+
+
+This application serves as a drug distribution center for pharmacies.   
+
+
 Relies on Getx statemangment .
 contain many of pages like:
    - sign in & regesterd
