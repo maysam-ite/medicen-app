@@ -21,9 +21,8 @@ It also contains many features like:
 
 
 
+![1](https://user-images.githubusercontent.com/99141332/155803517-f897007a-eab9-4953-9556-7296e2f07b46.png)
 
-
-![7](https://user-images.githubusercontent.com/99141332/155801892-86e75a06-460e-43e4-b689-1a00d27cbcad.png)
 
 
 
